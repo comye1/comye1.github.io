@@ -2,7 +2,7 @@
 title: comye1 #website title
 description: > # this means to ignore newlines until "baseurl:"
   Yewon
-url: https://comye1.github.io # the base hostname & protocol for your site
+url: "https://comye1.github.io" # the base hostname & protocol for your site
 baseurl: # the sub-path of your site, e.g. /blog/
 
 disqus_shortname: comye1 # leave empty if you don't want comments
