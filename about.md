@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-**Hi i'm kuoa!** and here is the place where i document and share my projects.
+**안녕하세요** comye1의 블로그 입니다
 
-* [Github](http://github.com/kuoa)
-* Mail: kuoacat[at]gmail[dot]com
+* [Github](http://github.com/comye1)
+<!-- * Mail: kuoacat[at]gmail[dot]com -->
