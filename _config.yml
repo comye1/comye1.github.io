@@ -20,7 +20,7 @@ links:
     external:     false
     external:     false
   - name:         GitHub
-    url:          http://github.com/kuoa
+    url:          http://github.com/comye1
     external:     true
 
 # Build settings
