@@ -23,7 +23,7 @@ Template -- 렌더, HTML 보여줌
 4. 경로 만들기 
 view.py에 함수 추가
 template 폴더 내에 html 파일 생성
->> render
+render
 url.py에 경로 추가
 
 5. 링크 만들기
