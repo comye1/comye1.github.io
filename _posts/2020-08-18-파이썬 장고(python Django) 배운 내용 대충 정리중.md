@@ -3,7 +3,7 @@ layout: post
 title: 파이썬 장고(python Django) 배운 내용 대충 정리중
 description: 파이썬 장고 
 author: comye1
-category: Web
+category: Misc
 tags: python Django Web Backend
 finished: true
 ---
